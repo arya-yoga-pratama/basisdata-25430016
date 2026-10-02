@@ -1,0 +1,7 @@
+# File environment dan kredensial
+*.env
+kredensial*.txt
+
+# File sementara
+*.tmp
+*.log
