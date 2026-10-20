@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="ChatGPT">
   <diagram id="perpus-lentera-style" name="ERD Konseptual Perpustakaan Lentera AYP">
-    <mxGraphModel dx="1800" dy="1397" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1350" pageHeight="930" background="light-dark(#ffffff, #121212)" math="0" shadow="0">
+    <mxGraphModel dx="2625" dy="2038" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1350" pageHeight="930" background="light-dark(#ffffff, #121212)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -200,7 +200,7 @@
           <mxGeometry height="23" width="223" x="350" y="685" as="geometry" />
         </mxCell>
         <mxCell id="eksemplar" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#72B8A8;strokeWidth=1.5;arcSize=8;" value="" vertex="1">
-          <mxGeometry height="151" width="285" x="613" y="663" as="geometry" />
+          <mxGeometry height="176" width="285" x="613" y="663" as="geometry" />
         </mxCell>
         <mxCell id="eksemplar_header" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#72B8A8;strokeColor=#72B8A8;fontColor=#152238;fontStyle=1;fontSize=12;align=center;verticalAlign=middle;" value="eksemplar" vertex="1">
           <mxGeometry height="26" width="285" x="613" y="663" as="geometry" />
@@ -289,8 +289,8 @@
         <mxCell id="pengembalian_row1" parent="1" style="whiteSpace=wrap;html=1;fillColor=#F2F5F9;strokeColor=#D7DEE8;strokeWidth=0.6;" value="" vertex="1">
           <mxGeometry height="25" width="285" x="1233" y="529" as="geometry" />
         </mxCell>
-        <mxCell id="pengembalian_key1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DDF8F4;strokeColor=#29B6A5;fontColor=#253449;fontSize=8;fontStyle=1;align=center;verticalAlign=middle;" value="FK gabungan" vertex="1">
-          <mxGeometry height="17" width="67" x="1238" y="533" as="geometry" />
+        <mxCell id="pengembalian_key1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DDF8F4;strokeColor=#29B6A5;fontColor=#253449;fontSize=8;fontStyle=1;align=center;verticalAlign=middle;" value="FK" vertex="1">
+          <mxGeometry height="17" width="32" x="1238" y="533" as="geometry" />
         </mxCell>
         <mxCell id="pengembalian_attr1" parent="1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;fontSize=10;fontColor=#253449;spacingLeft=2;" value="id_peminjaman" vertex="1">
           <mxGeometry height="23" width="98.5" x="1317" y="530" as="geometry" />
@@ -298,8 +298,8 @@
         <mxCell id="pengembalian_row2" parent="1" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D7DEE8;strokeWidth=0.6;" value="" vertex="1">
           <mxGeometry height="25" width="285" x="1233" y="554" as="geometry" />
         </mxCell>
-        <mxCell id="pengembalian_key2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DDF8F4;strokeColor=#29B6A5;fontColor=#253449;fontSize=8;fontStyle=1;align=center;verticalAlign=middle;" value="FK gabungan" vertex="1">
-          <mxGeometry height="17" width="67" x="1238" y="558" as="geometry" />
+        <mxCell id="pengembalian_key2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DDF8F4;strokeColor=#29B6A5;fontColor=#253449;fontSize=8;fontStyle=1;align=center;verticalAlign=middle;" value="FK" vertex="1">
+          <mxGeometry height="17" width="32" x="1238" y="558" as="geometry" />
         </mxCell>
         <mxCell id="pengembalian_attr2" parent="1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;fontSize=10;fontColor=#253449;spacingLeft=2;" value="id_eksemplar" vertex="1">
           <mxGeometry height="23" width="107" x="1317" y="555" as="geometry" />
@@ -503,97 +503,97 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ru1K344zEqCTEf8AWoHn-20" parent="1" style="rounded=1;arcSize=10;fillColor=#F3F7FC;strokeColor=#7A9CD0;strokeWidth=1.5;" value="" vertex="1">
-          <mxGeometry height="111" width="1490" x="170" y="977" as="geometry" />
+          <mxGeometry height="111" width="1490" x="170" y="1105" as="geometry" />
         </mxCell>
         <mxCell id="Ru1K344zEqCTEf8AWoHn-21" parent="1" style="text;html=0;whiteSpace=nowrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=0;spacing=0;fontFamily=Helvetica;fontSize=18;fontColor=#0B2A6B;fontStyle=1;" value="Keterangan" vertex="1">
-          <mxGeometry height="26" width="150" x="190" y="990" as="geometry" />
+          <mxGeometry height="26" width="150" x="190" y="1118" as="geometry" />
         </mxCell>
         <mxCell id="Ru1K344zEqCTEf8AWoHn-22" parent="1" style="text;html=0;whiteSpace=nowrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=0;spacing=0;fontFamily=Helvetica;fontSize=16;fontColor=#0B2A6B;fontStyle=1;" value="Kardinalitas" vertex="1">
-          <mxGeometry height="26" width="150" x="925" y="990" as="geometry" />
+          <mxGeometry height="26" width="150" x="925" y="1118" as="geometry" />
         </mxCell>
         <mxCell id="Ru1K344zEqCTEf8AWoHn-23" edge="1" parent="1" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=14;startSize=14;strokeWidth=1.2;strokeColor=#8AA2C8;edgeStyle=none;html=1;rounded=0;dashed=1;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="901" y="993" as="sourcePoint" />
-            <mxPoint x="901" y="1069" as="targetPoint" />
+            <mxPoint x="901" y="1121" as="sourcePoint" />
+            <mxPoint x="901" y="1197" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ru1K344zEqCTEf8AWoHn-24" parent="1" style="rounded=1;arcSize=25;whiteSpace=wrap;html=0;fillColor=#FFF1E3;strokeColor=#F59E42;strokeWidth=1.5;fontColor=#C2570C;fontStyle=1;fontSize=12;fontFamily=Helvetica;align=center;verticalAlign=middle;" value="PK" vertex="1">
-          <mxGeometry height="28" width="48" x="190" y="1025" as="geometry" />
+          <mxGeometry height="28" width="48" x="190" y="1153" as="geometry" />
         </mxCell>
         <mxCell id="Ru1K344zEqCTEf8AWoHn-25" parent="1" style="text;html=0;whiteSpace=nowrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=0;spacing=0;fontFamily=Helvetica;fontSize=14;fontColor=#1F2A44;" value="= kunci primer" vertex="1">
-          <mxGeometry height="28" width="100" x="246" y="1025" as="geometry" />
+          <mxGeometry height="28" width="100" x="246" y="1153" as="geometry" />
         </mxCell>
         <mxCell id="Ru1K344zEqCTEf8AWoHn-26" parent="1" style="rounded=1;arcSize=25;whiteSpace=wrap;html=0;fillColor=#E6F7F3;strokeColor=#2AB39A;strokeWidth=1.5;fontColor=#0E7C6B;fontStyle=1;fontSize=12;fontFamily=Helvetica;align=center;verticalAlign=middle;" value="FK" vertex="1">
-          <mxGeometry height="28" width="48" x="349" y="1025" as="geometry" />
+          <mxGeometry height="28" width="48" x="349" y="1153" as="geometry" />
         </mxCell>
         <mxCell id="Ru1K344zEqCTEf8AWoHn-27" parent="1" style="text;html=0;whiteSpace=nowrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=0;spacing=0;fontFamily=Helvetica;fontSize=14;fontColor=#1F2A44;" value="= kunci tamu" vertex="1">
-          <mxGeometry height="28" width="100" x="408" y="1025" as="geometry" />
+          <mxGeometry height="28" width="100" x="408" y="1153" as="geometry" />
         </mxCell>
         <mxCell id="Ru1K344zEqCTEf8AWoHn-28" parent="1" style="rounded=1;arcSize=25;whiteSpace=wrap;html=0;fillColor=#FFF1E3;strokeColor=#F59E42;strokeWidth=1.5;fontColor=#C2570C;fontStyle=1;fontSize=12;fontFamily=Helvetica;align=center;verticalAlign=middle;" value="PK,FK" vertex="1">
-          <mxGeometry height="28" width="68" x="505" y="1025" as="geometry" />
+          <mxGeometry height="28" width="68" x="505" y="1153" as="geometry" />
         </mxCell>
         <mxCell id="Ru1K344zEqCTEf8AWoHn-29" parent="1" style="text;html=0;whiteSpace=nowrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=0;spacing=0;fontFamily=Helvetica;fontSize=14;fontColor=#1F2A44;" value="= kunci primer komposit sekaligus kunci tamu" vertex="1">
-          <mxGeometry height="28" width="320" x="583" y="1025" as="geometry" />
+          <mxGeometry height="28" width="320" x="583" y="1153" as="geometry" />
         </mxCell>
         <mxCell id="Ru1K344zEqCTEf8AWoHn-30" edge="1" parent="1" style="endArrow=ERone;startArrow=none;endFill=0;startFill=0;endSize=9;startSize=9;strokeWidth=2.5;strokeColor=#0B3A82;edgeStyle=none;html=1;rounded=0;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="916" y="1041" as="sourcePoint" />
-            <mxPoint x="931" y="1041" as="targetPoint" />
+            <mxPoint x="916" y="1169" as="sourcePoint" />
+            <mxPoint x="931" y="1169" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ru1K344zEqCTEf8AWoHn-31" parent="1" style="text;html=0;whiteSpace=nowrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=0;spacing=0;fontFamily=Helvetica;fontSize=13;fontColor=#0B2A6B;" value="1" vertex="1">
-          <mxGeometry height="24" width="20" x="940" y="1029" as="geometry" />
+          <mxGeometry height="24" width="20" x="940" y="1157" as="geometry" />
         </mxCell>
         <mxCell id="Ru1K344zEqCTEf8AWoHn-32" parent="1" style="text;html=0;whiteSpace=nowrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=0;spacing=0;fontFamily=Helvetica;fontSize=13;fontColor=#1F2A44;" value="= tepat satu" vertex="1">
-          <mxGeometry height="24" width="100" x="966" y="1029" as="geometry" />
+          <mxGeometry height="24" width="100" x="966" y="1157" as="geometry" />
         </mxCell>
         <mxCell id="Ru1K344zEqCTEf8AWoHn-33" edge="1" parent="1" style="endArrow=ERzeroToOne;startArrow=none;endFill=0;startFill=0;endSize=9;startSize=9;strokeWidth=2.5;strokeColor=#0B3A82;edgeStyle=none;html=1;rounded=0;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1096" y="1041" as="sourcePoint" />
-            <mxPoint x="1066" y="1041" as="targetPoint" />
+            <mxPoint x="1096" y="1169" as="sourcePoint" />
+            <mxPoint x="1066" y="1169" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ru1K344zEqCTEf8AWoHn-34" parent="1" style="text;html=0;whiteSpace=nowrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=0;spacing=0;fontFamily=Helvetica;fontSize=13;fontColor=#0B2A6B;" value="0..1" vertex="1">
-          <mxGeometry height="24" width="40" x="1110" y="1029" as="geometry" />
+          <mxGeometry height="24" width="40" x="1110" y="1157" as="geometry" />
         </mxCell>
         <mxCell id="Ru1K344zEqCTEf8AWoHn-35" parent="1" style="text;html=0;whiteSpace=nowrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=0;spacing=0;fontFamily=Helvetica;fontSize=13;fontColor=#1F2A44;" value="= nol atau satu" vertex="1">
-          <mxGeometry height="24" width="110" x="1140" y="1029" as="geometry" />
+          <mxGeometry height="24" width="110" x="1140" y="1157" as="geometry" />
         </mxCell>
         <mxCell id="Ru1K344zEqCTEf8AWoHn-36" edge="1" parent="1" style="endArrow=ERzeroToMany;startArrow=none;endFill=0;startFill=0;endSize=9;startSize=9;strokeWidth=2.5;strokeColor=#0B3A82;edgeStyle=none;html=1;rounded=0;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1281" y="1041" as="sourcePoint" />
-            <mxPoint x="1248" y="1041" as="targetPoint" />
+            <mxPoint x="1281" y="1169" as="sourcePoint" />
+            <mxPoint x="1248" y="1169" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ru1K344zEqCTEf8AWoHn-37" parent="1" style="text;html=0;whiteSpace=nowrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=0;spacing=0;fontFamily=Helvetica;fontSize=13;fontColor=#0B2A6B;" value="0..N" vertex="1">
-          <mxGeometry height="24" width="40" x="1291" y="1029" as="geometry" />
+          <mxGeometry height="24" width="40" x="1291" y="1157" as="geometry" />
         </mxCell>
         <mxCell id="Ru1K344zEqCTEf8AWoHn-38" parent="1" style="text;html=0;whiteSpace=nowrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=0;spacing=0;fontFamily=Helvetica;fontSize=13;fontColor=#1F2A44;" value="= nol atau banyak" vertex="1">
-          <mxGeometry height="24" width="130" x="1325" y="1029" as="geometry" />
+          <mxGeometry height="24" width="130" x="1325" y="1157" as="geometry" />
         </mxCell>
         <mxCell id="Ru1K344zEqCTEf8AWoHn-39" edge="1" parent="1" style="endArrow=ERoneToMany;startArrow=none;endFill=0;startFill=0;endSize=9;startSize=9;strokeWidth=2.5;strokeColor=#0B3A82;edgeStyle=none;html=1;rounded=0;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1478" y="1041" as="sourcePoint" />
-            <mxPoint x="1450" y="1041" as="targetPoint" />
+            <mxPoint x="1478" y="1169" as="sourcePoint" />
+            <mxPoint x="1450" y="1169" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ru1K344zEqCTEf8AWoHn-40" parent="1" style="text;html=0;whiteSpace=nowrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=0;spacing=0;fontFamily=Helvetica;fontSize=13;fontColor=#0B2A6B;" value="1..N" vertex="1">
-          <mxGeometry height="24" width="40" x="1494" y="1029" as="geometry" />
+          <mxGeometry height="24" width="40" x="1494" y="1157" as="geometry" />
         </mxCell>
         <mxCell id="Ru1K344zEqCTEf8AWoHn-41" parent="1" style="text;html=0;whiteSpace=nowrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=0;spacingRight=0;spacing=0;fontFamily=Helvetica;fontSize=13;fontColor=#1F2A44;" value="= satu atau banyak" vertex="1">
-          <mxGeometry height="24" width="130" x="1526" y="1029" as="geometry" />
+          <mxGeometry height="24" width="130" x="1526" y="1157" as="geometry" />
         </mxCell>
-        <mxCell id="Ru1K344zEqCTEf8AWoHn-42" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=14;" value="&lt;p&gt;&lt;strong&gt;Catatan:&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;FK gabungan merupakan kombinasi dua atribut &lt;em&gt;Foreign Key&lt;/em&gt; (FK), yaitu &lt;code dir=&quot;ltr&quot;&gt;id_peminjaman&lt;/code&gt; dan &lt;code dir=&quot;ltr&quot;&gt;id_eksemplar&lt;/code&gt;, yang secara bersama-sama merujuk pada &lt;em&gt;Primary Key&lt;/em&gt; (PK) gabungan pada entitas &lt;code dir=&quot;ltr&quot;&gt;Detail_Peminjaman&lt;/code&gt;.&lt;/p&gt;&lt;p&gt;Setiap transaksi peminjaman dapat mencakup maksimal 10 eksemplar buku sesuai aturan bisnis perpustakaan.&lt;/p&gt;" vertex="1">
-          <mxGeometry height="70" width="867" x="173" y="884" as="geometry" />
+        <mxCell id="Ru1K344zEqCTEf8AWoHn-42" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=14;" value="&lt;p&gt;&lt;strong&gt;Catatan:&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;FK gabungan merupakan kombinasi dua atribut &lt;em&gt;Foreign Key&lt;/em&gt; (FK), yaitu &lt;code dir=&quot;ltr&quot;&gt;id_peminjaman&lt;/code&gt; dan &lt;code dir=&quot;ltr&quot;&gt;id_eksemplar&lt;/code&gt;, yang secara bersama-sama merujuk pada &lt;em&gt;Primary Key&lt;/em&gt; (PK) gabungan pada entitas &lt;code dir=&quot;ltr&quot;&gt;Detail_Peminjaman&lt;/code&gt;.&lt;/p&gt;&lt;p&gt;Setiap transaksi peminjaman dapat mencakup maksimal 10 eksemplar buku sesuai aturan bisnis perpustakaan.&lt;/p&gt;&lt;p&gt;Kombinasi &lt;code dir=&quot;ltr&quot;&gt;(id_peminjaman, id_eksemplar)&lt;/code&gt; pada &lt;code dir=&quot;ltr&quot;&gt;Pengembalian&lt;/code&gt; merupakan &lt;strong&gt;FK gabungan sekaligus UK&lt;/strong&gt; (unik sebagai pasangan, bukan unik pada masing-masing kolom), sehingga satu detail peminjaman maksimal memiliki satu catatan pengembalian. Atribut &lt;code dir=&quot;ltr&quot;&gt;id_pengembalian&lt;/code&gt; pada &lt;code dir=&quot;ltr&quot;&gt;Denda&lt;/code&gt; juga FK sekaligus UNIQUE.&lt;/p&gt;" vertex="1">
+          <mxGeometry height="128" width="1507" x="173" y="947" as="geometry" />
         </mxCell>
         <mxCell id="fqN2YG-fH5j9VstqnLwp-2" parent="1" style="whiteSpace=wrap;html=1;fillColor=#F2F5F9;strokeColor=#D7DEE8;strokeWidth=0.6;" value="" vertex="1">
           <mxGeometry height="25" width="285" x="613" y="814" as="geometry" />
         </mxCell>
         <mxCell id="fqN2YG-fH5j9VstqnLwp-3" parent="1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;fontSize=10;fontColor=#253449;spacingLeft=2;" value="lokasi_eksemplar" vertex="1">
-          <mxGeometry height="23" width="268" x="662" y="813" as="geometry" />
+          <mxGeometry height="23" width="268" x="662" y="815" as="geometry" />
         </mxCell>
         <mxCell id="dTnmlDcFwJM0VZ0qaqSo-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=14;" value="&lt;p&gt;&lt;strong&gt;Umpan Balik :&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;&lt;h3&gt;Umpan Balik 1 — Danang Setiawan&lt;/h3&gt;&lt;p&gt;Menurut saya, desain ERD yang dibuat sudah cukup jelas karena entitas dan atributnya disusun dengan rapi. Hubungan antara entitas juga sudah membantu menjelaskan proses peminjaman dan pengembalian buku di perpustakaan. Saran saya, ukuran tulisan dan jarak ant entitas tetap diperhatikan agar diagram lebih mudah dibaca.&lt;/p&gt;&lt;h3&gt;Umpan Balik 2 — Abbiyu Hashfi Dzakwhan&lt;/h3&gt;&lt;p&gt;Menurut saya, ERD yang dibuat sudah menggambarkan kebutuhan sistem perpustakaan dengan cukup baik. Entitas seperti Anggota, Buku, Eksemplar, Peminjaman, dan Pengembalian sudah sesuai dengan proses yang ada. Saran saya, penamaan relasi dan simbol kardinalitas dibuat konsisten supaya hubungan antarentitas lebih mudah dipahami.&lt;/p&gt;" vertex="1">
-          <mxGeometry height="201" width="1286" x="173" y="1140" as="geometry" />
+          <mxGeometry height="201" width="1286" x="173" y="1230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
